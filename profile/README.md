@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🙋‍♀️ We develop tools for learning robotics using robots developed by [Brian Mechanisms Robotics](https://cseco.co.ke). 
 <!--
 
 **Here are some ideas to get you started:**
